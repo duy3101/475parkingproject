@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.Properties;
 
 public class CreateUniversityDatabase {
-
+	
 	public static void main (String[] args)  throws Exception
 	{
 		// Initialize connection variables.	
